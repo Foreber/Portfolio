@@ -1214,7 +1214,7 @@ h3 {
 }
 
 .certif-img2{
-    width: 40%;
+    width: 60%;
     box-shadow: 5px 10px 5px #000;
     transition: all .6s;
 
@@ -1225,7 +1225,7 @@ h3 {
     transition: all .6s;
 }
 
-.contenedor-img {
+/*.contenedor-img {
     display: flex;
     flex-wrap: wrap;
     gap: 5px;
@@ -1251,7 +1251,8 @@ h3 {
 .swiper {
     cursor: pointer;
     position: relative;
-    width: 50%;
+    width: 100%;
+    height: 100%;
     margin-top: 55px;
     margin-bottom: 55px;
 }
