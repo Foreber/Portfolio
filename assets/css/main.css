@@ -1284,7 +1284,7 @@ h3 {
     object-fit: cover;
 }
 
-.content__main {
+/*.content__main {
     width: 250px;
 
     border-radius: 5px;
@@ -1301,4 +1301,4 @@ h3 {
 
 .img-titulo:hover {
     cursor: zoom-in;
-}
+}*/
