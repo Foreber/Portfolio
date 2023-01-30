@@ -1206,7 +1206,7 @@ h3 {
 }
 
 
-/*.contenedor-titulo {
+.contenedor-titulo {
     display: flex;
     justify-content: center;
     margin-top: 5%;
@@ -1214,7 +1214,15 @@ h3 {
 }
 
 .certif-img2{
-    display: none;
+    width: 60%;
+    box-shadow: 5px 10px 5px #000;
+    transition: all .6s;
+
+}
+
+.certif-img2:hover{
+    transform: scale(1.2) ;
+    transition: all .6s;
 }
 
 .contenedor-img {
