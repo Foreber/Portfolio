@@ -1251,7 +1251,7 @@ h3 {
 .swiper {
     cursor: pointer;
     position: relative;
-
+    width: 50%;
     margin-top: 55px;
     margin-bottom: 55px;
 }
